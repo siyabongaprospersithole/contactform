@@ -4,7 +4,7 @@
 This is a simple CRUD Contact store app, using Laravel, Vuejs, Axios and sqlite to store data. i don't recommend using sqlite if you want to scale this:
 
 
-## Laravel installation
+## Laravel and Vuejs installation
 
 - [git clone rep]
 - [cd public]
